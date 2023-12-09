@@ -1,2 +1,3 @@
-# SwagLabsNew
-Automatic testing of the product purchase application - final paper
+Automatic testing of the application for online shopping
+​
+# ZavrsniRad
